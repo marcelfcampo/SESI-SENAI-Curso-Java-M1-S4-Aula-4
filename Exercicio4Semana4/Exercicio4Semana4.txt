@@ -1,0 +1,7 @@
+
+[M1S04] Ex 4 - Alterar tabela aluno excluindo coluna
+Após realizar os exercícios anteriores, faça agora uma alteração na tabela aluno excluindo a coluna contato.
+
+
+ALTER TABLE alunos DROP COLUMN  contato;
+
